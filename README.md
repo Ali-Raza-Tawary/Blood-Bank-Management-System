@@ -56,3 +56,9 @@ Follow these steps to set up the project locally:
 ```bash
 git clone https://github.com/yourusername/blood-bank-management-system.git
 cd blood-bank-management-system
+composer install
+php artisan migrate
+php artisan db:seed
+php artisan serve
+
+ If you need Help Hire me https://www.fiverr.com/ali_raza_tawry
