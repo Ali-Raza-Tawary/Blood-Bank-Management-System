@@ -47,7 +47,7 @@ It’s designed for **Admins, Staff, Hospitals, and Donors** — providing a sec
 | **Auth Middleware** | Role-based access control |
 
 ---
-
+![Blood Bank Management System Screenshot](https://github.com/Ali-Raza-Tawary/Blood-Bank-Management-System/blob/main/Blood-Bank-Managment-System.png?raw=true)
 ## ⚙️ Installation Guide
 
 Follow these steps to set up the project locally:
@@ -63,4 +63,4 @@ php artisan serve
 
  If you need Help Hire me https://www.fiverr.com/ali_raza_tawry
 
-![Blood Bank Management System Screenshot](https://github.com/Ali-Raza-Tawary/Blood-Bank-Management-System/blob/main/Blood-Bank-Managment-System.png?raw=true)
+
