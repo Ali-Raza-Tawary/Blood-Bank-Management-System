@@ -1,5 +1,5 @@
 # 🩸 Blood Bank Management System (Laravel)
-
+![Blood Bank Management System Screenshot](https://i.ibb.co/Q7Nxwhqg/Blood-Bank-Managment-System.png)
 A full-featured **Blood Bank Management System** built with **Laravel** to digitalize blood donation, testing, inventory, and hospital requests.  
 It’s designed for **Admins, Staff, Hospitals, and Donors** — providing a secure, automated, and efficient way to manage blood collection and distribution.
 
