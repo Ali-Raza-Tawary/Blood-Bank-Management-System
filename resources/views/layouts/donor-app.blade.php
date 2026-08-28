@@ -36,7 +36,7 @@
                     <i class="icofont-clock-time"></i> Monday - Saturday, 7AM to 10PM
                 </div>
                 <div class="d-flex align-items-center">
-                    <i class="icofont-phone"></i> Call us now +254 299-999-999
+                    <i class="icofont-phone"></i> Call us now +254 299-xxx-xxx
                 </div>
             </div>
         </div> --}}
